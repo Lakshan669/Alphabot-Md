@@ -14,10 +14,10 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read message
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -27,24 +27,24 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ RASHMIKA ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "janith20062006@gmail.com" //bebas
+global.botname = "LAKIYA BOT" //namabot kalian
+global.ownername= "ᴹᴿ᭄ LAKSHAN ×፝֟͜×" //nama kalian
+global.myweb ="-" //bebas asal jan hapus
+global.youtube = "-" //bebas asal jan hapus
+global.myweb2 = "-" //bebas
+global.email = "cyberassassin56@gmail.com" //bebas
 global.region = "Sri Lanka" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['94717775628'] //premium user
-global.owner = ["94717775628"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "94717775628" // nomor wa kalian
-global.ownernomerr = "+94717775628" //nmr wa kalian
+global.premium = ['94766370881'] //premium user
+global.owner = ["94766370881"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "94766370881" // nomor wa kalian
+global.ownernomerr = "+94766370881" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© LAKIYA BOT' //sticker wm ubah
+global.author = 'LAKIYA ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
