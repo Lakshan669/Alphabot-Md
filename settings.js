@@ -34,7 +34,7 @@ global.youtube = "-" //bebas asal jan hapus
 global.myweb2 = "-" //bebas
 global.email = "cyberassassin56@gmail.com" //bebas
 global.region = "Sri Lanka" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
+global.timezone = 'Sri Lanka/Colombo' //  timezone wib
 global.premium = ['94766370881'] //premium user
 global.owner = ["94766370881"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "94766370881" // nomor wa kalian
@@ -119,16 +119,16 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+    admin: 'මෙම විධානය භාවිතා කළ හැක්කේ පරිපාලකයින්ට පමණි!',
+    botAdmin: 'මෙම විධානය භාවිතා කළ හැක්කේ බොට් පරිපාලක වූ විට පමණි!',
+    owner: 'මෙම විධානය භාවිතා කළ හැක්කේ අයිතිකරුට පමණි!',
+    group: 'මෙම විධානය භාවිතා කළ හැක්කේ කණ්ඩායම් වශයෙන් පමණි!',
+    private: 'මෙම විධානය භාවිතා කළ හැක්කේ පුද්ගලිකව පමණි!',
+	bot: 'Bot Number භාවිතා කරන්නන් සඳහා විශේෂ විශේෂාංග',
+    errtoimg: 'සමාවන්න, දැනට Gif ස්ටිකරයට සහය නොදක්වයි!',
+    wait: '⏳ සකස් වෙමින් පවතී',
+	lockCmd: 'විශේෂාංගය හිමිකරු විසින් සක්‍රිය කර නැත!',
+	example1: '@subject සමූහයේ @user වෙත ඔබව සාදරයෙන් පිළිගනිමු. රීති කියවීමට අමතක නොකරන්න @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
